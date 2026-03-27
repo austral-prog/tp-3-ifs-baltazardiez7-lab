@@ -42,3 +42,4 @@ def discount():
     monto= descuento*subtotal
     print (f"Monto de descuento: {monto}")
     print (f"Total final: {subtotal-monto}")
+    
